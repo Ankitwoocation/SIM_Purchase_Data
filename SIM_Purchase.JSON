@@ -1,0 +1,4580 @@
+[
+{
+		"CC": "AFG",
+		"COUNTRY NAME": "AFGHANISTAN",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"2"
+			],
+			"AVAILABLE AT": [
+				"22"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "2",
+			"LINK": "http://www.bootsonground.com/afghanistan-sim-cards.htm",
+			"RECO": ["http://wikitravel.org/en/Afghanistan"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "ARM",
+		"COUNTRY NAME": "ARMENIA",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Armenia ",
+			"RECO": ["http://wikitravel.org/en/Armenia"],
+			"NEWS": ["http://www.mediamax.am/en/news/society/23571/"]
+		}
+	},
+	{
+		"CC": "AZE",
+		"COUNTRY NAME": "AZERBAIZAN",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"2",
+				"8"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.angloinfo.com/azerbaijan/how-to/page/azerbaijan-housing-setting-up-home-mobile-phones",
+			"RECO": ["http://prepaid-data-sim-card.wikia.com/wiki/Azerbaijan"],
+			"NEWS": ["https://www.azernews.az/business/112493.html"]
+		}
+	},
+	{
+		"CC": "BHR",
+		"COUNTRY NAME": "BAHRAIN",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"2",
+				"5",
+				"10",
+				"13"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Bahrain",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293997-i3670-k3855608-SIM_cards_in_Bahrain-Manama.html"],
+			"NEWS": ["http://www.tradearabia.com/news/IT_300351.html”, “http://www.tradearabia.com/news/IT_279834.html", "https://www.linkedin.com/pulse/bahrain-tries-put-stop-unregistered-sim-cards-ahmed-aldoseri", "http://www.gulf-insider.com/saudi-tightens-rules-prepaid-sim-cards-expats/"]
+		}
+	},
+	{
+		"CC": "BGD",
+		"COUNTRY NAME": "BANGLADESH",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"2",
+				"11",
+				"9"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "4",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Bangladesh",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293935-i9192-k3577493-Internet_Access_and_Mobile_Sim_Cards_in_Dhaka-Bangladesh.html"],
+			"NEWS": ["https://globalvoices.org/2015/12/22/bangladesh-will-demand-biometric-data-from-all-sim-card-users/", "http://sujonhera.com/bangladeshi-mobile-sim-buying-and-registration-new-rules/"]
+		}
+	},
+	{
+		"CC": "BTN",
+		"COUNTRY NAME": "BHUTAN",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"2",
+				"9",
+				"5"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Bhutan",
+			"NEWS": ["http://roadsandkingdoms.com/2016/know-before-you-go-to-bhutan/", "https://www.tripadvisor.in/ShowTopic-g293844-i10038-k10289162-Sim_card_for_phone_in_Bhutan-Bhutan.html"],
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293844-i10038-k9486153-Mobile_data_SIM_card_in_Bhutan-Bhutan.html"]
+		}
+	},
+	{
+		"CC": "BRN",
+		"COUNTRY NAME": "BRUNEI",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"2"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Brunei",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293938-i9176-k9289843-Purchasing_SIM_card_in_Brunei-Bandar_Seri_Begawan_Brunei_Muara_District.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "KHM",
+		"COUNTRY NAME": "CAMBODIA",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"9",
+				"6",
+				"11"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Cambodia",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293939-i9162-k6591079-Mobile_SIM_cards-Cambodia.html"],
+			"NEWS": ["https://www.cambodiadaily.com/news/two-months-on-sim-card-crackdown-fizzles-122987/", "https://www.cambodiadaily.com/news/police-hail-first-arrest-in-unregistered-sim-card-crackdown-125575/", "http://www.khmertimeskh.com/news/37982/winning-the-sim-card-war/", "http://www.khmerdigitalpost.com/sim-registration-mobile-telecom-operators-to-deactivate-mobile-sim-cards-without-id/"]
+		}
+	},
+	{
+		"CC": "CHN",
+		"COUNTRY NAME": "China",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"10"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/China",
+			"RECO": ["https://www.lonelyplanet.com/thorntree/forums/asia-north-east-asia/china/sim-card-registration-in-china"],
+			"NEWS": ["http://startuplivingchina.com/whats-best-china-sim-card/"]
+		}
+	},
+	{
+		"CC": "CYP",
+		"COUNTRY NAME": "Cyprus",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"2",
+				"10",
+				"7"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Cyprus",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g616081-i11276-k5612754-Best_sim_card-Pissouri_Limassol_District.html"],
+			"NEWS": ["http://cyprus-mail.com/2017/02/12/eu-phone-deal-bad-news-domestic-users/", "http://www.prnewswire.com/news-releases/onesimcard-europe--more-plan-increases-its-country-coverage-and-allows-pen-movement-300465539.html"]
+		}
+	},
+	{
+		"CC": "GEO",
+		"COUNTRY NAME": "Georgia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Georgia",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294195-i9344-k9259967-Mobile_sim_card-Tbilisi.html"],
+			"NEWS": ["http://www.thenews.pl/1/9/Artykul/291519", "New-rules-on-SIM-cards-aim-to-fight-terror-but-will-it-work"]
+		}
+	},
+	{
+		"CC": "IND",
+		"COUNTRY NAME": "INDIA",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"2",
+				"5",
+				"7",
+				"9",
+				"10",
+				"11"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "1",
+			"MAX_ACT_DAYS": "7",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/India",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g304551-i3482-k7606359-SIM_card_while_travelling_in_India-New_Delhi_National_Capital_Territory_of_Delhi.html"],
+			"NEWS": ["https://www.androidcentral.com/traveling-india-heres-how-you-can-pick-local-sim-card", "http://timesofindia.indiatimes.com/india/foreign-tourists-to-get-sim-cards-at-12-airports/articleshow/56194589.cms",
+				"http://nriinformation.com/faq2/questions_35.htm"]
+		}
+	},
+	{
+		"CC": "IDN",
+		"COUNTRY NAME": "INDONESIA",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Indonesia",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294226-i7220-k6310539-Bali_sim_cards-Bali.html"],
+			"NEWS": ["http://indonesiaexpat.biz/other/info-for-expats/travelling-tips-to-remote-areas/", "https://www.lonelyplanet.com/thorntree/forums/asia-south-east-asia-islands-peninsula/indonesia/sim-card-with-data-in-bali"]
+		}
+	},
+	{
+		"CC": "IRN",
+		"COUNTRY NAME": "Iran",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"2",
+				"5",
+				"9",
+				"11"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Iran",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293998-i9139-k9013732-Mobile_SIM_card_in_Iran-Iran.html"],
+			"NEWS": ["https://financialtribune.com/articles/economy-sci-tech/57647/iran-sim-card-regulation-intensifies", 
+              "https://financialtribune.com/articles/sci-tech/65609/buying-a-smartphone-in-iran-is-tedious", "https://financialtribune.com/articles/economy-sci-tech/63900/regulator-refocuses-on-sim-card-use"]
+		}
+	},
+	{
+		"CC": "IRQ",
+		"COUNTRY NAME": "Iraq",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"2"
+			],
+			"AVAILABLE AT": [
+				"22"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://www.bootsonground.com/iraq-sim-cards.htm",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294000-i13855-k8119615-Tourism_in_Southern_Iraq-Iraq.html"],
+			"NEWS": ["http://gulfnews.com/business/analysis/the-fourth-industrial-revolution-flows-through-a-mobile-1.2032546"]
+		}
+	},
+	{
+		"CC": "ISR",
+		"COUNTRY NAME": "Israel",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"2"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33",
+				"44"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Israel",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293977-i1733-k9355389-Israel_SIM_card_Snapir_review_March_2016-Israel.html", "https://www.tripadvisor.in/ShowTopic-g293977-i1733-k5411890-Buying_a_SIM_card_at_the_airport_or_in_Jerusalem-Israel.html"],
+			"NEWS": ["http://www.jpost.com/Arab-Israeli-Conflict/Hamas-clamps-down-on-Gazas-insecure-Israeli-SIM-cards-473018", "http://www.israelnationalnews.com/News/News.aspx/220531"]
+		}
+	},
+	{
+		"CC": "JPN",
+		"COUNTRY NAME": "Japan",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "YES",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Japan",
+			"RECO": ["https://www.tripadvisor.com/Travel-g294232-c164999/Japan:Mobile.Phones.html"],
+			"NEWS": ["http://www.wanderlust.co.uk/magazine/articles/destinations/24-hours-kyoto", "https://www.pcworld.idg.com.au/article/609004/best-travel-sims-japan/", "https://tokyocheapo.com/business/internet/prepaid-cheap-japan-sim-card-options/"]
+		}
+	},
+	{
+		"CC": "JOR",
+		"COUNTRY NAME": "Jordan",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Jordan",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293985-i2131-k5449198-Mobile_phone_SIM_card-Jordan.html", "https://www.tripadvisor.in/ShowTopic-g293985-i2131-k10400827-SIM_card_in_Jordan-Jordan.html"],
+			"NEWS": ["http://pulitzercenter.org/reporting/jordan-connecting-without-connectivity", "http://www.gulf-insider.com/saudi-tightens-rules-prepaid-sim-cards-expats/"]
+		}
+	},
+	{
+		"CC": "KAZ",
+		"COUNTRY NAME": "Kazakhastan",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "17", "18"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Kazakhstan",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g298251-i9684-k8302543-Almaty_few_questions-Almaty.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "KWT",
+		"COUNTRY NAME": "Kuwait",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Kuwait",
+			"RECO": ["https://www.justlanded.com/english/Kuwait/Kuwait-Guide/Telephone-Internet/Mobile-phones"],
+			"NEWS": ["http://news.kuwaittimes.net/website/one-android-phone-two-sims-two-social-messaging-accounts-kuwait-residents/", "http://www.arabianbusiness.com/saudi-arabia-temporarily-limits-mobile-sim-card-ownership-672013.html"]
+
+		}
+	},
+	{
+		"CC": "KGZ",
+		"COUNTRY NAME": "Kyrgyzstan",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Kyrgyzstan",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293947-i9200-k7487084-Purchasing_a_cell_phone_in_Bishkek-Kyrgyzstan.html"],
+			"NEWS": ["http://www.eurasianet.org/node/80121", "http://www.eurasianet.org/node/80121"]
+		}
+	},
+	{
+		"CC": "LAO",
+		"COUNTRY NAME": "Laos",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Laos",
+			"RECO": ["https://www.lonelyplanet.com/thorntree/forums/asia-south-east-asia-mainland/laos/laos-sim-card"],
+			"NEWS": ["https://www.travelfish.org/board/post/laos/30172_sim-card-in-laos"]
+		}
+	},
+	{
+		"CC": "LBN",
+		"COUNTRY NAME": "Lebanon",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Lebanon",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294005-i2872-k6493041-Prepaid_SIM_card_for_calls_and_data-Beirut.html", "https://www.tripadvisor.in/ShowTopic-g294004-i2871-k9466448-Tourist_SIM_card_with_4G_Internet-Lebanon.html"],
+			"NEWS": ["http://www.zawya.com/mena/en/story/Du_rewards_customers_with_free_data_minutes_for_outage-ZAWYA20170324055452/#"]
+		}
+	},
+	{
+		"CC": "MYS",
+		"COUNTRY NAME": "Malayasia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Malaysia",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g298570-i7008-k7741338-Best_traveller_sim_card_available_in_malaysia-Kuala_Lumpur_Wilayah_Persekutuan.html"],
+			"NEWS": ["https://www.ausbt.com.au/the-best-pre-paid-sim-card-for-travellers-to-malaysia"]
+		}
+	},
+	{
+		"CC": "MDV",
+		"COUNTRY NAME": "Maldives",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "5"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Maldives",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293953-i7445-k9333241-SIM_cards_for_smartphones_and_tablets_in_the_Maldives-Maldives.html", "https://www.tripadvisor.in/ShowTopic-g293953-i7445-k9486406-Data_sim_card_and_cigarettes_at_Male_airport-Maldives.html"],
+			"NEWS": ["https://123maldives.com/blog/How-to-Buy-a-Local-SIM-Card-in-The-Maldives"]
+		}
+	},
+	{
+		"CC": "MNG",
+		"COUNTRY NAME": "Mongolia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "4"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Mongolia",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293955-i9382-k8498016-Sim_card-Mongolia.html"],
+			"NEWS": ["http://mongoliatravel.guide/useful_information/view/phone-internet/"]
+		}
+	},
+	{
+		"CC": "MMR",
+		"COUNTRY NAME": "Myanmar",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "6"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Myanmar",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294190-i9408-k8918059-Which_SIM_card_to_buy-Myanmar.html"],
+			"NEWS": ["http://www.mmtimes.com/index.php/business/technology/25448-only-a-week-left-to-register-sim.html", "http://www.mmtimes.com/index.php/national-news/25570-same-gsm-numbers-to-replace-cdma-sim-cards.html"]
+		}
+	},
+	{
+		"CC": "NPL",
+		"COUNTRY NAME": "Nepal",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2", "11"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Nepal",
+			"RECO": ["https://www.lonelyplanet.com/thorntree/forums/asia-indian-subcontinent/nepal/nepalese-sim-card-ncell-or-nepal-telecom"],
+			"NEWS": ["https://thehimalayantimes.com/business/ncell-rolls-4glte-service-valley-today/", "http://kathmandupost.ekantipur.com/news/2016-03-02/govt-starts-offering-sim-cards-to-foreign-tourists.html"]
+		}
+	},
+	{
+		"CC": "PRK",
+		"COUNTRY NAME": "North Korea",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "NO",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["N/A"],
+			"AVAILABLE AT": ["N/A"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "N/A",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Korea_(North)",
+			"RECO": ["http://www.latimes.com/world/asia/la-fg-north-korea-arrival-20160503-snap-htmlstory.html"],
+			"NEWS": ["http://www.latimes.com/world/asia/la-fg-north-korea-arrival-20160503-snap-htmlstory.html", "http://www.reuters.com/article/us-northkorea-mobilephone-idUSKBN0GW1MC20140901"]
+
+		}
+	},
+	{
+		"CC": "OMN",
+		"COUNTRY NAME": "Oman",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Oman",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294006-i2046-k7169833-Pre_paid_SIM_card-Oman.html"],
+			"NEWS": ["http://timesofoman.com/article/90931/Oman/TRA-warns-people-who-buy-mobile-phone-SIM-cards-for-others-in-Oman", "https://www.telecompaper.com/news/ooredoo-oman-launches-smart-mousbak-welcome-pack--1196988", "http://gulfnews.com/business/sectors/telecoms/oman-eyes-third-telecom-operator-to-boost-quality-of-services-1.2021367", "http://www.gulf-insider.com/saudi-tightens-rules-prepaid-sim-cards-expats/"]
+		}
+	},
+	{
+		"CC": "PAK",
+		"COUNTRY NAME": "Pakistan",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2", "11", "6"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "5",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Pakistan",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293959-i9151-k7857917-SIM_Card_International_Phones-Pakistan.html"],
+			"NEWS": ["https://www.techjuice.pk/zong-device-packages-wingles-3g-4g/", "https://www.thenewstribe.com/2016/12/10/now-will-no-free-sim-card/"]
+		}
+	},
+	{
+		"CC": "PSE",
+		"COUNTRY NAME": "Palestine",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Palestine",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g667136-i13883-k4769167-SIM_card-Ramallah.html"],
+			"NEWS": ["http://www.al-monitor.com/pulse/originals/2016/11/israel-phone-chips-gaza-3g-service.html", "http://www.reuters.com/article/us-palestinians-israel-cellular-idUSKBN13C13I"]
+		}
+	},
+	{
+		"CC": "PHL",
+		"COUNTRY NAME": "Philippines",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Philippines",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g298573-i3261-k5857811-Prepaid_Data_Sim_in_MNL_Airport-Manila_Metro_Manila_Luzon.html"],
+			"NEWS": ["https://www.telegeography.com/products/commsupdate/articles/2016/10/04/philippines-submits-mandatory-sim-card-registration-bill-to-senate/"]
+		}
+	},
+	{
+		"CC": "QAT",
+		"COUNTRY NAME": "Qatar",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Qatar",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294009-i3512-k6600227-SIM_Card_Doha_Qatar-Doha.html"],
+			"NEWS": ["https://www.irrawaddy.com/news/burma/communications-ministry-users-must-register-sim-cards-or-lose-service.html", "http://www.arabianbusiness.com/saudi-arabia-temporarily-limits-mobile-sim-card-ownership-672013.html"]
+		}
+	},
+	{
+		"CC": "RUS",
+		"COUNTRY NAME": "Russia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2", "6", "7", "14"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Russian_Federation",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294459-i705-k9560936-Local_SIM_card-Russia.html", "http://russia-travel-guide.com/tips/how-to-buy-local-sim.php"],
+			"NEWS": ["https://www.rbth.com/travel/tips/2017/05/27/6-faqs-about-how-to-stay-in-touch-when-traveling-in-russia_771560"]
+		}
+	},
+	{
+		"CC": "SAU",
+		"COUNTRY NAME": "Saudi Arabia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "6", "2"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Saudi'_Arabia",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293991-i4477-k9303706-Where_to_get_Saudi_Sim_while_over_there-Saudi_Arabia.html"],
+			"NEWS": ["https://www.bloomberg.com/news/articles/2017-04-26/saudi-arabia-temporarily-limits-mobile-sim-card-ownership"]
+		}
+	},
+	{
+		"CC": "SGP",
+		"COUNTRY NAME": "Singapore",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Singapore",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294265-i1748-k6193127-Which_Prepaid_Sim_to_buy_in_Singapore-Singapore.html"],
+			"NEWS": ["http://www.satprnews.com/2017/06/02/bring-your-3g-or-4g-enabled-device-to-stay-connected-says-hotel-g-singapore/", "http://www.channelnewsasia.com/news/singapore/prepaid-sim-cards-issued-from-nov-15-will-no-longer-support-2g-t-7684844"]
+		}
+	},
+	{
+		"CC": "KOR",
+		"COUNTRY NAME": "South Korea",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "7", "2"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Korea,_Republic_of_(South)",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294197-i8161-k5749567-o10-How_to_get_a_Prepaid_SIM_card_in_Seoul-Seoul.html"],
+			"NEWS": ["https://thearrivalstore.com/getting-prepaid-sim-card-korea/"]
+		}
+	},
+	{
+		"CC": "LKA",
+		"COUNTRY NAME": "Sri Lanka",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2", "3"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Sri_Lanka",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293961-i8983-k7317197-Pre_paid_Mobile_Sim_Cards_on_Arrival-Sri_Lanka.html"],
+			"NEWS": ["http://www.readme.lk/hutch-introduces-doorstep-sim-delivery/", "http://www.autorentalnews.com/channel/rental-operations/news/story/2017/05/hertz-dollar-thrifty-brands-launch-in-sri-lanka.aspx"]
+		}
+	},
+	{
+		"CC": "SYR",
+		"COUNTRY NAME": "Syria",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "N/A",
+			"DATA ONLY": "N/A",
+			"DOCUMENTS": ["N/A"],
+			"AVAILABLE AT": ["N/A"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "N/A",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "N/A",
+			"RECO": ["N/A"],
+			"NEWS": ["http://www.al-monitor.com/pulse/originals/2016/11/israel-phone-chips-gaza-3g-service.html"]
+		}
+	},
+	{
+		"CC": "TWN",
+		"COUNTRY NAME": "Taiwan",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2", "4"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Taiwan",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293913-i9546-k5927739-3G_data_and_mobile_pre_paid_SIM_cards_for_Taiwan-Taipei.html"],
+			"NEWS": ["http://www.techrepublic.com/article/taiwan-does-travel-sims-properly-unlimited-data-on-lte-a/"]
+		}
+	},
+	{
+		"CC": "TJK",
+		"COUNTRY NAME": "Tajikistan",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2", "11"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "YES",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Tajikistan",
+			"RECO": ["http://caravanistan.com/phone-internet/tajikistan/"],
+			"NEWS": ["http://www.eurasianet.org/node/81136/"]
+		}
+	},
+	{
+		"CC": "THA",
+		"COUNTRY NAME": "Thailand",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Thailand",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293916-i3687-k5833204-SIM_card_in_Thailand-Bangkok.html", "http://help.mobiletopup.com/knowledge-base/how-can-i-get-a-thai-sim-card-and-phone-number/"],
+			"NEWS": ["http://www.reuters.com/article/us-thailand-telecoms-idUSKBN18L1R2", "http://tech.thaivisa.com/thailand-to-make-fingerprint-scans-mandatory-for-all-sim-cards-from-1-jan-2018/21893/"]
+		}
+	},
+	{
+		"CC": "TLS",
+		"COUNTRY NAME": "Timor Leste",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "9"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://wikitravel.org/en/East_Timor",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g295117-i9393-k8737883-Timor_internet_mobile_phone_coverage-East_Timor.html"],
+			"NEWS": ["http://www.ronperrier.net/2015/01/17/timor-leste-travel-facts/"]
+		}
+	},
+	{
+		"CC": "TUR",
+		"COUNTRY NAME": "Turkey",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2", "9"],
+			"AVAILABLE AT": ["33", "22"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Turkey",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293969-i367-k6297895-Prepaid_SIM_Card_with_Data-Turkey.html", "http://www.turkeytravelplanner.com/details/Communications/mobile_phone_sim_cards_in_turkey.html"],
+			"NEWS": ["https://www.theguardian.com/money/2017/may/20/mobile-phone-roaming-charges-banned-europe-15-june-brexit"]
+
+		}
+	},
+	{
+		"CC": "TKM",
+		"COUNTRY NAME": "Turkmenistan",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["6", "7", "1", "2"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Turkmenistan",
+			"RECO": ["https://www.lonelyplanet.com/thorntree/forums/asia-central-asia/topics/sim-cards-mobile-internet-in-central-asia"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "ARE",
+		"COUNTRY NAME": "United Arab Emirates",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2", "9"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/United_Arab_Emirates",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294012-i871-k8076464-Sim_connection-United_Arab_Emirates.html"],
+			"NEWS": ["https://www.ausbt.com.au/the-best-local-sim-card-for-travellers-to-dubai-abu-dhabi-uae", "http://www.arabianbusiness.com/saudi-arabia-temporarily-limits-mobile-sim-card-ownership-672013.html"]
+		}
+	},
+	{
+		"CC": "UZB",
+		"COUNTRY NAME": "Uzbekistan",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "7", "2", "15"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Uzbekistan",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293967-i9281-k7433035-Local_GSM_SIM_card-Uzbekistan.html", "https://www.lonelyplanet.com/thorntree/forums/asia-central-asia/uzbekistan/buying-a-local-gsm-sim-card-in-tashkent"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "VNM",
+		"COUNTRY NAME": "Vietnam",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["2", "1", "4", "5"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Vietnam",
+			"RECO": ["https://www.tripadvisor.com.au/Travel-g293921-c187446/Vietnam:Sim.Cards.html", "http://www.adventurefaktory.com/sim-cards-in-vietnam/"],
+			"NEWS": ["http://tuoitrenews.vn/business/38184/vietnam-to-deactivate-12-million-unregistered-sim-cards", "http://tuoitrenews.vn/business/38204/107-million-numbers-blocked-in-vietnams-crackdown-on-unregistered-sim-cards", "http://english.vietnamnet.vn/fms/science-it/171589/16-million-pre-activated-sim-cards-locked.html"]
+		}
+	},
+	{
+		"CC": "YEM",
+		"COUNTRY NAME": "Yemen",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2", "9"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_TIME": "0",
+			"MAX_ACT_TIME": "N/A",
+			"LINK": "https://www.lonelyplanet.com/thorntree/forums/middle-east/yemen/yemeni-simcard-and-mobile-coverage",
+			"RECO": ["http://www.onesimcard.com/cell-phone-rates/yemen/"],
+			"NEWS": ["http://gulfnews.com/news/gulf/saudi-arabia/in-bid-to-curb-terrorism-two-sim-card-limit-for-expats-in-saudi-arabia-1.2017689"]
+		}
+	},
+	{
+		"CC": "ALB",
+		"COUNTRY NAME": "Albania",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"3"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Albania",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294445-i4583-k7852463-Buying_SIM_Card-Albania.html"],
+			"NEWS": ["https://www.uswitch.com/broadband/news/2016/12/uk_ranks_behind_albania_and_peru_in_4g_coverage_rankings/"]
+		}
+	},
+	{
+		"CC": "AND",
+		"COUNTRY NAME": "Andorra",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"2"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Andorra",
+			"RECO": ["https://www.pasdelacasa.com/forum/pas/index.php/Thread/262-Does-Spanish-pre-paid-SIM-card-will-work-also-in-Andorra/", "https://www.tripadvisor.in/ShowTopic-g190391-i1957-k9100176-Internet_in_Andorra-Andorra.html"],
+			"NEWS": ["https://www.theguardian.com/money/2017/may/20/mobile-phone-roaming-charges-banned-europe-15-june-brexit/", "https://www.collectget.com/questions/7919/where-can-i-buy-a-pre-paid-sim-card-that-will-work-in-andorra"]
+
+		}
+	},
+	{
+		"CC": "AUT",
+		"COUNTRY NAME": "Austria",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"10"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33",
+				"44"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "1",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Austria",
+			"RECO": ["http://www.fodors.com/community/europe/pre-paid-sim-card-at-munich-airport.cfm", "https://www.tripadvisor.in/ShowTopic-g190454-i147-k8320209-Sim_Card_Mainly_for_Data_Internet-Vienna.html"],
+			"NEWS": ["http://www.prnewswire.com/news-releases/onesimcard-europe--more-plan-increases-its-country-coverage-and-allows-pen-movement-300465539.html”, “https://www.nfcworld.com/2016/03/16/343399/austria-gets-nationwide-sim-based-nfc-mobile-payment-service/"]
+		}
+	},
+	{
+		"CC": "BLR",
+		"COUNTRY NAME": "Belarus",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"5"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Belarus",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294447-i5625-k9364337-Belarus_SIM_card-Belarus.html"],
+			"NEWS": ["https://realnoevremya.com/articles/1499-experts-opinions-on-restrictions-in-messangers"]
+		}
+	},
+	{
+		"CC": "BEL",
+		"COUNTRY NAME": "Belgium",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"3",
+				"6"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33",
+				"44"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Belgium",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g188634-i204-k8465445-Belgium_sim_card-Belgium.html"],
+			"NEWS": ["https://www.nfcworld.com/2017/05/31/352916/belgium-gets-mobile-id-platform-that-will-be-supported-on-all-sim-cards-across-the-country/", "https://www.telecompaper.com/news/belgium-registers-25-mln-active-prepaid-sim-cards--1198370", "http://www.brusselstimes.com/belgium/8360/terrorist-threat-still-600-000-prepaid-sim-cards-unregistered"]
+		}
+	},
+	{
+		"CC": "BIH",
+		"COUNTRY NAME": "Bosnia and Herzegovina",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"2"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Bosnia_and_Herzegovina",
+			"RECO": ["https://www.lonelyplanet.com/thorntree/forums/europe-eastern-europe-the-caucasus/bosnia-and-hercegovina/sim-card-in-bosia"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "BGR",
+		"COUNTRY NAME": "Bulgaria",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"10"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Bulgaria",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294451-i3250-k8581241-International_Data_Sim_Card-Bulgaria.html"],
+			"NEWS": ["https://www.tripadvisor.in/ShowTopic-g499086-i9527-k10451272-Tourist_sim_card-Sunny_Beach_Burgas_Province.html"]
+		}
+	},
+	{
+		"CC": "HRV",
+		"COUNTRY NAME": "Croatia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"2"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Croatia",
+			"RECO": ["http://wikitravel.org/en/Croatia", "https://www.chasingthedonkey.com/how-to-get-unlimited-mobile-internet-in-croatia/"],
+			"NEWS": ["http://sofiaglobe.com/2017/04/20/end-of-roaming-charges-for-travellers-in-the-eu-in-2017-q-and-a/"]
+		}
+	},
+	{
+		"CC": "CYP",
+		"COUNTRY NAME": "Cyprus",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"2",
+				"7"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Cyprus",
+			"RECO": ["http://www.cyprusninja.com/cyprus-phone-number-sim-card/"],
+			"NEWS": ["http://cyprus-mail.com/2017/02/12/eu-phone-deal-bad-news-domestic-users/", "http://english.ahram.org.eg/NewsContent/8/27/269744/Travel/News/Outbound-Adventures-Crushing-on-Cyprus.aspx"]
+		}
+	},
+	{
+		"CC": "CZE",
+		"COUNTRY NAME": "Czech Republic",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1",
+				"2"
+			],
+			"AVAILABLE AT": [
+				"22",
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Czech_Republic",
+			"RECO": ["https://www.tripadvisor.com/Travel-g274707-c136346/Prague:Czech-Republic:Connecting.Your.Cell.Phone.html"],
+			"NEWS": ["http://politicalcritique.org/cee/poland/2017/registration-simcard-law/", "https://www.telecompaper.com/news/vodafone-czech-republic-introduces-red-naplno-tariffs--1195719", "http://europa.eu/rapid/press-release_MEMO-17-885_en.htm"]
+		}
+	},
+	{
+		"CC": "DNK",
+		"COUNTRY NAME": "Denmark",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2"],
+			"AVAILABLE AT": ["22", "33", "44"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Denmark",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g190455-i550-k8348492-SIM_Card_for_Norway_and_Denmark-Norway.html"],
+			"NEWS": ["https://www.nfcworld.com/2016/09/08/347141/coop-denmark-to-launch-mobile-loyalty-and-payments-across-all-stores/", "https://www.thurrott.com/mobile/android/85270/project-fi-netherlands-seamless-inexpensive-connectivity", "http://www.independent.co.uk/news/business/news/roaming-charges-eu-data-europe-free-2017-a7557741.html"]
+		}
+	},
+	{
+		"CC": "EST",
+		"COUNTRY NAME": "Estonia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Estonia",
+			"RECO": ["http://toomanyadapters.com/buying-sim-card-estonia/"],
+			"NEWS": ["http://www.zdnet.com/article/android-ios-secure-id-estonia-says-its-taking-digital-authentication-to-new-levels/"]
+		}
+	},
+	{
+		"CC": "FRO",
+		"COUNTRY NAME": "Faroe Islands",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "1",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Faroe_Islands",
+			"RECO": ["https://www.tripadvisor.in/ShowUserReviews-g190335-r66794135-Torshavn_Streymoy.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "FIN",
+		"COUNTRY NAME": "Finland",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Finland",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g189896-i442-k6893258-SIM_Card_with_Data_Access_in_Finland-Finland.html"],
+			"NEWS": ["http://www.mobileeurope.co.uk/press-wire/esims-to-approach-one-billion-shipments-by-2021-report-claims", "http://yle.fi/uutiset/osasto/news/finnish_security_police_dont_take_your_phone_abroad_with_you/9137360"]
+		}
+	},
+	{
+		"CC": "FRA",
+		"COUNTRY NAME": "France",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "2",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/France",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g187147-i14-k6706511-What_is_best_and_cheapest_prepaid_SIM_CARD_in_france-Paris_Ile_de_France.html"],
+			"NEWS": ["https://www.connexionfrance.com/French-news/What-changes-in-France-from-June-1", "http://goodherald.com/exploring-the-best-of-france-without-any-trouble/"]
+		}
+	},
+	{
+		"CC": "DEU",
+		"COUNTRY NAME": "Germany",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2", "10", "12"],
+			"AVAILABLE AT": ["22", "33", "44"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Germany",
+			"RECO": ["http://budgettraveller.org/travelling-to-germany-tips-for-getting-mobile-internet-access/"],
+			"NEWS": ["https://www.nfcworld.com/2017/01/06/349319/deutsche-telekom-shuts-down-nfc-sim-based-mobile-payments-service-in-germany/", "https://www.thelocal.de/20160601/germany-to-require-id-for-buying-prepaid-phones"]
+		}
+	},
+	{
+		"CC": "GIB",
+		"COUNTRY NAME": "Gibraltar",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Gibraltar",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g187510-i1247-k4509364-Phone_Calls-Gibraltar.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "GRC",
+		"COUNTRY NAME": "Greece",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Greece",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g189398-i192-k923957-Greek_Sim_Card-Greece.html"],
+			"NEWS": ["http://www.komando.com/tips/386976/how-to-move-your-phone-over-to-another-carrier/all", "https://recombu.com/mobile/article/best-international-sim-cards-roaming#"]
+		}
+	},
+	{
+		"CC": "HUN",
+		"COUNTRY NAME": "Hungary",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2", "7", "10"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Hungary",
+			"RECO": ["http://welovebudapest.com/budapest.and.hungary/how.to.get.started.when.you.first.move.to.budapest"],
+			"NEWS": ["https://bbj.hu/politics/hungary-to-bolster-regulations-following-sim-card-scandal_123067"]
+		}
+	},
+	{
+		"CC": "ISL",
+		"COUNTRY NAME": "Iceland",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Iceland",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g189952-i223-k7465948-3G_4G_prepaid_sim_card_in_Reykjavik_Airport-Iceland.html"],
+			"NEWS": ["https://www.connexionfrance.com/French-news/What-changes-in-France-from-June-1", "http://www.icenews.is/2012/07/16/vodafone-offers-prepaid-sim-cards-and-prepaid-3g-for-visitors-in-iceland/#axzz4j29iWBx7"]
+		}
+	},
+	{
+		"CC": "IRL",
+		"COUNTRY NAME": "Ireland",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Ireland",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g186591-i88-k4793989-Where_to_purchase_Ireland_SIM_card-Ireland.html"],
+			"NEWS": ["http://www.independent.ie/business/technology/meteor-launches-new-wificalling-service-for-those-with-terrible-mobile-reception-at-home-or-at-work-35726707.html", "http://www.mercurynews.com/2017/04/20/using-a-cell-phone-in-ireland-without-having-to-turn-over-a-pot-of-gold/"]
+		}
+	},
+	{
+		"CC": "ITA",
+		"COUNTRY NAME": "Italy",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Italy",
+			"RECO": ["https://www.tripadvisor.com/Travel-g187768-c5431/Italy:Sim.Card.Purchase.In.Italy.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "LVA",
+		"COUNTRY NAME": "Latvia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Latvia",
+			"RECO": ["http://toomanyadapters.com/buying-sim-card-latvia/"],
+			"NEWS": ["http://baltic-review.com/service-travelers-latvian-roamer/"]
+		}
+	},
+	{
+		"CC": "LIE",
+		"COUNTRY NAME": "Liechtenstein",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "YES",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Liechtenstein",
+			"RECO": ["http://www.llv.li/#/12643"],
+			"NEWS": []
+
+		}
+	},
+	{
+		"CC": "LTU",
+		"COUNTRY NAME": "Lithuania",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Lithuania",
+			"RECO": ["http://toomanyadapters.com/buying-sim-card-lithuania/"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "LUX",
+		"COUNTRY NAME": "Luxembourg",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Luxembourg",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g187337-i301-k9389640-Will_a_tourist_data_card_work_in_Luxembourg-Frankfurt_Hesse.html"],
+			"NEWS": ["https://www.wort.lu/en/luxembourg/around-201-000-pre-paid-customers-in-luxembourg-records-to-be-kept-on-pre-paid-sim-card-users-in-luxembourg-564d895b0da165c55dc4d98b", "https://www.wort.lu/en/community/luxembourg-companies-mobile-phone-operators-reject-refugee-contract-applications-due-to-status-57bd7f0dac730ff4e7f65658"]
+		}
+	},
+	{
+		"CC": "MKD",
+		"COUNTRY NAME": "Macedonia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "1",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Macedonia",
+			"RECO": ["http://wikitravel.org/en/Republic_of_Macedonia"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "MLT",
+		"COUNTRY NAME": "Malta",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Malta",
+			"RECO": ["http://roamerapp.com/community//index.php?/topic/887-malta-sim-cards/"],
+			"NEWS": []
+
+		}
+	},
+	{
+		"CC": "MDA",
+		"COUNTRY NAME": "Moldova",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Moldova",
+			"RECO": ["https://www.tripadvisor.com/Travel-g294455-s605/Moldova:Telephones.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "MCO",
+		"COUNTRY NAME": "Monaco",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "NA",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Monaco",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g187234-i138-k4488656-o50-Passport_needed_traveling_to_Monaco-Nice_French_Riviera_Cote_d_Azur_Provence.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "NLD",
+		"COUNTRY NAME": "Netherlands",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Netherlands",
+			"RECO": ["http://toomanyadapters.com/buying-sim-card-netherlands/"],
+			"NEWS": ["https://www.cnet.com/news/the-netherlands-paves-the-way-for-carrier-free-sim-cards/", "https://www.thurrott.com/mobile/android/85270/project-fi-netherlands-seamless-inexpensive-connectivity"]
+		}
+	},
+	{
+		"CC": "NOR",
+		"COUNTRY NAME": "Norway",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2", "5", "7"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "1",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Norway",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g190455-i550-k7385465-Data_SIM_card-Norway.html"],
+			"NEWS": ["https://www.connexionfrance.com/French-news/What-changes-in-France-from-June-1"]
+		}
+	},
+	{
+		"CC": "POL",
+		"COUNTRY NAME": "Poland",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2", "10"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Poland",
+			"NEWS": ["http://www.thenews.pl/1/12/Artykul/291230,New-rules-on-prepaid-SIM-cards-in-Poland", "http://www.thenews.pl/1/9/Artykul/291519,New-rules-on-SIM-cards-aim-to-fight-terror-but-will-it-work", "http://politicalcritique.org/cee/poland/2017/registration-simcard-law/"],
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g274856-i1119-k6719472-Prepaid_sim_card_for_internet-Warsaw_Mazovia_Province_Central_Poland.html"]
+		}
+	},
+	{
+		"CC": "PRT",
+		"COUNTRY NAME": "Portugal",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Portugal",
+			"RECO": ["http://toomanyadapters.com/buying-sim-card-portugal/"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "ROU",
+		"COUNTRY NAME": "Romania",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "1",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Romania",
+			"RECO": ["http://toomanyadapters.com/buying-sim-card-romania/"],
+			"NEWS": ["http://www.balkaninsight.com/en/article/romania-to-identify-prepay-card-holders-03-28-2016”, “https://www.romania-insider.com/vodafone-in-romania-free-internet-for-everyone/"]
+		}
+	},
+	{
+		"CC": "SMR",
+		"COUNTRY NAME": "San Marino",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "5"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "1",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/San_Marino",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g187768-i20-k9340509-Feedback_trip_to_Rome_Venice_and_San_Marino-Italy.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "SRB",
+		"COUNTRY NAME": "Serbia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Serbia",
+			"RECO": ["http://eurotribe.com/buy-a-sim-card-in-serbia/"],
+			"NEWS": ["https://inserbia.info/today/2017/05/serbia-prepaid-sim-card-owners-will-have-to-register-with-id/", "http://www.mobileeurope.co.uk/press-wire/telenor-boosts-serbia-data-speeds-by-2-5-times-in-lte-a-launch"]
+		}
+	},
+	{
+		"CC": "SVK",
+		"COUNTRY NAME": "Slovakia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "1",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Slovakia",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g274922-i1155-k7260105-Mobile_Internet_How_to_obtain_a_SIM_Card-Slovakia.html"],
+			"NEWS": ["https://www.telecompaper.com/news/slovak-operator-4ka-improves-tariffs-offers-top-phones--1185691"]
+		}
+	},
+	{
+		"CC": "SVN",
+		"COUNTRY NAME": "Slovenia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "1",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Slovenia",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g274862-i501-k7473638-Buying_prepaid_SIM_card-Slovenia.html"],
+			"NEWS": ["http://www.businessinsider.in/How-to-save-a-ton-of-money-when-using-your-smartphone-overseas/articleshow/48312358.cms"]
+		}
+	},
+	{
+		"CC": "ESP",
+		"COUNTRY NAME": "Spain",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2", "10"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Spain",
+			"RECO": ["http://toomanyadapters.com/buying-sim-card-spain/"],
+			"NEWS": ["https://www.cnet.com/news/traveling-to-spain-local-prepaid-sim-or-international-roaming/"]
+		}
+	},
+	{
+		"CC": "SWE",
+		"COUNTRY NAME": "Sweden",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Sweden",
+			"RECO": ["http://toomanyadapters.com/buying-sim-card-sweden/"],
+			"NEWS": ["https://www.nfcworld.com/2017/03/09/350800/sweden-becomes-first-nordic-country-get-samsung-pay/"]
+		}
+	},
+	{
+		"CC": "CHE",
+		"COUNTRY NAME": "Switzerland",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "1",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Switzerland",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g188045-i336-k4726341-Swiss_prepaid_sim_card-Switzerland.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "UKR",
+		"COUNTRY NAME": "Ukraine",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Ukraine",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294473-i3662-k6673261-Urgent_Where_to_get_a_pre_paid_sim_card_in_Kiev-Ukraine.html"],
+			"NEWS": ["https://www.kyivpost.com/technology/one-sim-card-229-countries-telecom-service-travelers-launches-ukraine.html"]
+		}
+	},
+	{
+		"CC": "GBR",
+		"COUNTRY NAME": "United Kingdom",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2", "5"],
+			"AVAILABLE AT": ["22", "33", "44"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/United_Kingdom",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g186216-i15-k6628793-UK_sim_card-United_Kingdom.html"],
+			"NEWS": ["http://www.pcadvisor.co.uk/test-centre/mobile-phone/best-sim-deals-2017-3516700/”, “https://motherboard.vice.com/en_us/article/more-uk-police-put-cash-down-for-imsi-catchers"]
+		}
+	},
+	{
+		"CC": "VAT",
+		"COUNTRY NAME": "Vatican city",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "5", "10"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Italy",
+			"RECO": ["https://www.tripadvisor.ca/Travel-g187768-c5431/Italy:Sim.Card.Purchase.In.Italy.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "IMN",
+		"COUNTRY NAME": "Isle of Man",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Isle_of_Man",
+			"RECO": ["http://www.iomtt.com/forum/ShowPost.aspx?PostID=237716"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "XKX",
+		"COUNTRY NAME": "Kosovo",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1"],
+			"AVAILABLE AT": ["22"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Kosovo,_Republic_of",
+			"RECO": ["http://www.prepaidgsm.net/en/kosovo.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "MNE",
+		"COUNTRY NAME": "Montenegro",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": ["1", "2", "5"],
+			"AVAILABLE AT": ["22", "33"],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Montenegro",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g635648-i11070-k5691214-Local_sim_card-Montenegro.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "ARG",
+		"COUNTRY NAME": "Argentina",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Argentina",
+			"RECO": ["https://toomanyadapters.com/buying-sim-cards-argentina-bolivia-peru/"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "BOL",
+		"COUNTRY NAME": "Bolivia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "13"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Bolivia",
+			"RECO": ["https://toomanyadapters.com/buying-sim-cards-argentina-bolivia-peru/"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "BRA",
+		"COUNTRY NAME": "Brazil",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "16", "7"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Brazil",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294280-i1045-k6747958-Sim_Card_in_Brazil-Brazil.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "CHL",
+		"COUNTRY NAME": "Chile",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Chile",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294305-i2020-k3644569-Best_SIM_card_and_where_to_buy-Santiago_Santiago_Metropolitan_Region.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "COL",
+		"COUNTRY NAME": "Colombia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "5", "10"
+			],
+			"AVAILABLE AT": [
+				"33", "22"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "1",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Colombia",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294074-i3499-k8985607-Buying_a_Colombian_SIM_card_in_Bogota_airport-Bogota.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "ECU",
+		"COUNTRY NAME": "Ecuador",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "10"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Ecuador",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294307-i2253-k9147553-Sim_card-Ecuador.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "FLK",
+		"COUNTRY NAME": "Falkland Islands",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://www.falklandislands.com/product.php/98/8/module_1__communications_and_services",
+			"RECO": ["https://www.tripadvisor.com/Travel-g294270-c152678/Falkland-Islands:Good.To.Know.Before.You.Go.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "GUF",
+		"COUNTRY NAME": "French Guiana",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/French_West_Indies",
+			"RECO": ["http://www.travellerspoint.com/guide/French_Guiana/"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "GIN",
+		"COUNTRY NAME": "Guiana",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "7"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/French_West_Indies",
+			"RECO": ["http://www.caribbeancompass.com/g3phone.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "PRY",
+		"COUNTRY NAME": "Paraguay",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.com/Travel-g294079-s605/Paraguay:Telephones.html",
+			"RECO": ["http://first2board.com/pointssummary/2014/05/02/10-things-learned-recent-trip-asuncion-paraguay/"],
+			"NEWS": ["https://www.developingtelecoms.com/tech/wireless-networks/6257-tigo-to-launch-4g-lte-commercially-in-paraguay.html”, “https://www.telecompaper.com/news/paraguay-lower-house-approves-new-mobile-bill--1194897"]
+		}
+	},
+	{
+		"CC": "PER",
+		"COUNTRY NAME": "Peru",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "10", "11", "7"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "",
+			"MIN_ACT_DAYS": "2",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Peru",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294316-i819-k6675332-SIM_card_in_Peru-Lima_Lima_Region.html"],
+			"NEWS": ["http://www.aol.co.uk/news/2017/05/02/uk-ranks-behind-estonia-and-peru-for-4g-availability-figures-sh/"]
+		}
+	},
+	{
+		"CC": "SUR",
+		"COUNTRY NAME": "Suriname",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Suriname",
+			"RECO": ["http://www.paho.org/sur/index.php?option=com_content&do_pdf=1&id=94"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "URY",
+		"COUNTRY NAME": "Uruguay",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Uruguay",
+			"RECO": ["http://wiki.apnchanger.org/Uruguay"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "VEN",
+		"COUNTRY NAME": "Venezuela",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "10", "11", "7", "5", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+
+
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://wikitravel.org/en/Venezuela",
+			"RECO": ["https://www.lonelyplanet.com/thorntree/forums/americas-south-america/topics/sim-card-44bb40bb-42ff-4727-bc20-326356b432ed"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "DZA",
+		"COUNTRY NAME": "Algeria",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikivoyage.org/wiki/Algeria",
+			"RECO": ["http://www.travellerspoint.com/guide/Algeria/"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "AGO",
+		"COUNTRY NAME": "Angola",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "6", "13"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Angola",
+			"RECO": ["https://www.justlanded.com/english/Angola/Angola-Guide/Telephone-Internet/Telephones-in-Angola"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "SHN",
+		"COUNTRY NAME": "Ascension",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://www.noonsite.com/Countries/AscensionIsland?rc=GeneralInfo",
+			"RECO": ["https://en.wikipedia.org/wiki/Communications_in_Saint_Helena,_Ascension_and_Tristan_da_Cunha"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "BEN",
+		"COUNTRY NAME": "Benin",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "13"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.lonelyplanet.com/thorntree/forums/africa/ghana/cell-phones-in-ghana-togo-and-benin",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Benin"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "BWA",
+		"COUNTRY NAME": "Botswana",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "3", "13"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Botswana",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Botswana"],
+			"NEWS": ["http://www.biztechafrica.com/article/orange-botswana-launches-superfast-4g/9712/"]
+		}
+	},
+	{
+		"CC": "BFA",
+		"COUNTRY NAME": "Burkina Faso",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/Telecommunications_in_Burkina_Faso",
+			"RECO": ["http://www.africantelecomsnews.com/Operators_Regulators/List_of_African_fixed_and_mobile_telcos_Burkina_Faso.html"],
+			"NEWS": ["http://telecom.economictimes.indiatimes.com/news/bharti-airtel-sells-burkina-faso-sierra-leone-to-orange-for-around-900-million/50556000"]
+		}
+	},
+	{
+		"CC": "CMR",
+		"COUNTRY NAME": "Cameroon",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/Telecommunications_in_Cameroon",
+			"RECO": ["http://wikitravel.org/en/Cameroon"],
+			"NEWS": ["https://www.africa.com/famocos-partnership-orange-cameroon-improve-network-efficiency/"]
+		}
+	},
+	{
+		"CC": "CPV",
+		"COUNTRY NAME": "Cape Verde Islands",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Cape_Verde",
+			"RECO": ["http://www.capeverdeinfo.org.uk/cape_verde_telephone.htm"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "CAF",
+		"COUNTRY NAME": "Central African Republic",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/Telecommunications_in_the_Central_African_Republic",
+			"RECO": ["http://www.africantelecomsnews.com/Operators_Regulators/List_of_African_fixed_and_mobile_telcos_Central_African_Republic.html"],
+			"NEWS": []
+
+		}
+	},
+	{
+		"CC": "TCD",
+		"COUNTRY NAME": "Chad Republic",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/Telecommunications_in_Chad",
+			"RECO": ["http://www.africantelecomsnews.com/Operators_Regulators/List_of_African_fixed_and_mobile_telcos_Chad.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "COM",
+		"COUNTRY NAME": "Comoros",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Comoros",
+			"RECO": ["http://www.africantelecomsnews.com/Operators_Regulators/List_of_African_fixed_and_mobile_telcos_Comoros.html", "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Comoros"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "COG",
+		"COUNTRY NAME": "Congo",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33", "22"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Congo",
+			"RECO": ["http://www.africantelecomsnews.com/Operators_Regulators/List_of_African_fixed_and_mobile_telcos_Democratic_Republic_Congo.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "DJI",
+		"COUNTRY NAME": "Djibouti",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33", "22"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://www.lonelyplanet.com/djibouti/telephone",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Djibouti"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "EGY",
+		"COUNTRY NAME": "Egypt",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "N/A",
+			"DOCUMENTS": [
+				"1", "7", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Egypt",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294201-i9404-k3334238-Should_i_buy_a_sim_in_airport-Cairo_Cairo_Governorate.html"],
+			"NEWS": ["http://www.thisismoney.co.uk/money/news/article-3693390/I-bought-local-SIM-card-trip-Egypt-cost-8-week-Call-time-high-roaming-charges-local-SIMs-apps-help-avoid-bill-shock.html", "http://www.herald.co.zw/cabman-tampers-with-international-mobile-calls/"]
+		}
+	},
+	{
+		"CC": "GNQ",
+		"COUNTRY NAME": "Equatorial Guinea",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "9", "2"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://www.africantelecomsnews.com/Operators_Regulators/List_of_African_fixed_and_mobile_telcos_Equatorial_Guinea.html",
+			"RECO": ["http://prepaid-data-sim-card.wikia.com/wiki/Blacklist", "http://www.pprune.org/african-aviation/512193-malabo-equatorial-guinea.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "ERI",
+		"COUNTRY NAME": "Eritrea",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "NO",
+			"DATA ONLY": "N/A",
+			"DOCUMENTS": [
+				"N/A"
+			],
+			"AVAILABLE AT": [
+				"N/A"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "N/A",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Blacklist",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Eritrea"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "ETH",
+		"COUNTRY NAME": "Ethiopia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "5", "13"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Ethiopia",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Ethiopia"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "GAB",
+		"COUNTRY NAME": "Gabon Republic",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/Telecommunications_in_Gabon",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Gabon", "http://www.africa.com/insiders-guide-to-african-business-travel-libreville-gabon/"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "GMB",
+		"COUNTRY NAME": "Gambia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "5", "7", "16", "13"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Gambia",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293794-i9249-k4926109-Local_Sim_Card-Gambia.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "GHA",
+		"COUNTRY NAME": "Ghana",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://mobilityarena.com/travelling-to-ghana-here-are-the-gsm-mobile-networks-there/",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Ghana"],
+			"NEWS": ["http://allafrica.com/stories/201705291132.html”,”http://citifmonline.com/2017/05/10/busys-3-paddies-offer-to-ramp-up-customer-base/", "http://www.pymnts.com/news/international/2016/gemalto-launches-sim-reactivation-solution-in-ghana/"]
+		}
+	},
+	{
+		"CC": "GNB",
+		"COUNTRY NAME": "Guinea-Bissau",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "NO",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.lonelyplanet.com/thorntree/forums/africa/guinea-bissau/mobile-phone-guinea-bissau",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Guinea-Bissau"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "GIN",
+		"COUNTRY NAME": "Guinea",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/Telecommunications_in_Guinea",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Guinea"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "CIV",
+		"COUNTRY NAME": "Ivory Coast",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#C.C3.B4te_d.27Ivoire",
+			"RECO": ["https://en.wikipedia.org/wiki/Telecommunications_in_Ivory_Coast"],
+			"NEWS": ["http://www.africanews.com/2017/03/23/ivory-coast-bans-sale-of-sim-cards-to-minors-under-age-16/", "http://www.thenewdawnliberia.com/politics/13474-lta-campaigns-for-cross-border-sim-cards"]
+		}
+	},
+	{
+		"CC": "KEN",
+		"COUNTRY NAME": "Kenya",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "13"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Kenya",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294206-i9216-k5094538-Buying_and_registering_a_SIM_Card-Kenya.html"],
+			"NEWS": ["http://www.the-star.co.ke/news/2017/05/21/issue-iebc-hack-proof-sim-cards-for-poll-results-transmission-nasa_c1565232"]
+		}
+	},
+	{
+		"CC": "LSO",
+		"COUNTRY NAME": "Lesotho",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Lesotho",
+			"RECO": ["http://wikitravel.org/en/Lesotho"],
+			"NEWS": ["http://www.itweb.co.za/index.php?option=com_content&view=article&id=153647"]
+		}
+	},
+	{
+		"CC": "LBR",
+		"COUNTRY NAME": "Liberia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Liberia",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g309240-i5069-k4395209-Prepaid_SIM_cards_sold_in_Liberia_International_Airport-Liberia_Province_of_Guanacaste.html"],
+			"NEWS": ["http://www.frontpageafricaonline.com/index.php/news/4145-liberian-government-launches-issuance-of-biometric-id-card"]
+		}
+	},
+	{
+		"CC": "LBY",
+		"COUNTRY NAME": "Libya",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "13"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Libya",
+			"RECO": ["http://libyana.ly/en/customerservices/buyingsim.php"],
+			"NEWS": ["http://www.frontpageafricaonline.com/index.php/news/4145-liberian-government-launches-issuance-of-biometric-id-card", "http://www.newvision.co.ug/new_vision/news/1450796/ucc-meets-kayihura-telecoms-sim-cards"]
+		}
+	},
+	{
+		"CC": "MDG",
+		"COUNTRY NAME": "Madagascar",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "13"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Madagascar",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293808-i9291-k7130415-Phone_Internet_Options_in_Madagascar-Madagascar.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "MWI",
+		"COUNTRY NAME": "Malawi",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "13"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Malawi",
+			"RECO": ["http://www.lonelyplanet.com/malawi/telephone"],
+			"NEWS": ["'"]
+		}
+	},
+	{
+		"CC": "MLI",
+		"COUNTRY NAME": "Mali Republic",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "13"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Mali",
+			"RECO": ["https://www.lonelyplanet.com/thorntree/forums/africa/mali/sim-card-in-mali"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "MRT",
+		"COUNTRY NAME": "Mauritania",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://www.africantelecomsnews.com/Operators_Regulators/List_of_African_fixed_and_mobile_telcos_Mauritania.html",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Mauritania"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "MUS",
+		"COUNTRY NAME": "Mauritius",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "5"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "1",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Mauritius",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293816-i9265-k8092348-Sim_Cards_at_Mauritius_Airport_are_available_as_per_Emtel-Mauritius.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "MYT",
+		"COUNTRY NAME": "Mayotte Island",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/Telecommunications_in_Mayotte",
+			"RECO": ["http://en.ilemayotte.com/Tourist-Guide/Tourist-information/Transport-telecom-and-internet"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "MAR",
+		"COUNTRY NAME": "Morocco",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Morocco",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Morocco", "https://www.tripadvisor.in/ShowTopic-g293730-i9195-k5395308-Prepaid_sim_card_at_Casablanca_Airport-Morocco.html"],
+			"NEWS": ["https://www.incentivetravel.co.uk/news/technology/39577-worldsim-offer-up-to-99-reduction-on-roaming-tariffs-worldwide"]
+		}
+	},
+	{
+		"CC": "MOZ",
+		"COUNTRY NAME": "Mozambique",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://acountryamonth.com/mozambique/will-my-current-phone-work-in-mozambique-tips-on-savings-money-when-staying-connected-in-mozambique/",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Mozambique"],
+			"NEWS": ["http://allafrica.com/stories/201611080159.html”, “http://allafrica.com/stories/201502021802.html”, “http://www.itweb.co.za/index.php?option=com_content&view=article&id=153647"]
+		}
+	},
+	{
+		"CC": "NAM",
+		"COUNTRY NAME": "Namibia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Namibia",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293820-i9680-k3941779-Where_to_buy_SIM_card-Namibia.html"],
+			"NEWS": ["http://venturesafrica.com/namibian-teenager-invents-a-sim-less-and-airtime-free-mobile-phone/”, “http://www.namibian.com.na/SMSes/0/2017-04-11”, “http://www.namibian.com.na/163120/archive-read/Spy-agency-wants-SIM-cards-registered"]
+		}
+	},
+	{
+		"CC": "NER",
+		"COUNTRY NAME": "Niger Republic",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/Telecommunications_in_Niger",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Niger"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "NGA",
+		"COUNTRY NAME": "Nigeria",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.com/Travel-g293824-s605/Nigeria:Telephones.html",
+			"RECO": ["https://en.wikipedia.org/wiki/Telecommunications_in_Nigeria"],
+			"NEWS": ["http://www.nigeriatoday.ng/2017/05/thousands-distressed-after-sim-card-switch-off/”, “http://www.nigeriatoday.ng/2017/05/no-worries-as-sim-card-registration-deadline-looms/"]
+		}
+	},
+	{
+		"CC": "STP",
+		"COUNTRY NAME": "Sao Tome Principe",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "1",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://www.africantelecomsnews.com/Operators_Regulators/List_of_African_fixed_and_mobile_telcos_Sao_Tome_Principe.html",
+			"RECO": ["https://www.lonelyplanet.com/thorntree/forums/africa/sao-tome-and-principe/mobile-internet-on-stp"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "REU",
+		"COUNTRY NAME": "Reunion Island",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://wikitravel.org/en/Reunion",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#La_R.C3.A9union"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "RWA",
+		"COUNTRY NAME": "Rwanda",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "5"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Rwanda",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293828-i9987-k9039642-SIM_card_Google_map_etc-Rwanda.html"],
+			"NEWS": ["http://allafrica.com/stories/201605270169.html"]
+		}
+	},
+	{
+		"CC": "SYC",
+		"COUNTRY NAME": "Seychelles",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Seychelles",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293738-i9311-k7421357-Sim_card_in_Beau_Vallon_or_Victoria_or_airport-Seychelles.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "SEN",
+		"COUNTRY NAME": "Senegal Republic",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "",
+			"DATA ONLY": "",
+			"DOCUMENTS": [
+				"1", "2", "9", "5"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Senegal",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293830-i9218-k6963975-Simcard_in_senegal-Senegal.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "SLE",
+		"COUNTRY NAME": "Sierra Leone",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "",
+			"MIN_ACT_DAYS": "",
+			"MAX_ACT_DAYS": "",
+			"LINK": "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Sierra_Leone",
+			"RECO": ["https://www.lonelyplanet.com/thorntree/forums/africa/sierra-leone/which-sim-card-for-sierra-leone"],
+			"NEWS": ["http://awoko.org/2017/05/30/sierra-leone-news-africell-launches-ramadan-bonanza/", "http://journalducameroun.com/en/sierra-leone-proliferation-of-fake-sim-cards-costing-government-hugely/"]
+		}
+	},
+	{
+		"CC": "SOM",
+		"COUNTRY NAME": "Somalia Republic",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://www.lonelyplanet.com/somaliland-puntland-and-somalia/somaliland/telephone",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Somalia", "http://wikitravel.org/en/Ethiopia"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "ZAF",
+		"COUNTRY NAME": "South Africa",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "",
+			"DATA ONLY": "",
+			"DOCUMENTS": [
+				"1", "2", "9", "5", "7"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/South_Africa",
+			"RECO": ["http://prepaid-data-sim-card.wikia.com/wiki/South_Africa"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "SHN",
+		"COUNTRY NAME": "St. Helena",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Saint_Helena",
+			"RECO": ["http://www.lonelyplanet.com/st-helena/telephone", "https://en.wikipedia.org/wiki/Communications_in_Saint_Helena,_Ascension_and_Tristan_da_Cunha"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "SDN",
+		"COUNTRY NAME": "Sudan",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.lonelyplanet.com/thorntree/forums/africa/sudan/safety-sudan-khartoum",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Sudan"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "SWZ",
+		"COUNTRY NAME": "Swaziland",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://wikitravel.org/en/Swaziland",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Swaziland"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "TZA",
+		"COUNTRY NAME": "Tanzania",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g293747-i9226-k9225554-Kenya_SIM_cards_work_in_Tanzania-Tanzania.html",
+			"RECO": ["http://prepaid-data-sim-card.wikia.com/wiki/Tanzania"],
+			"NEWS": ["http://allafrica.com/stories/201705190204.html”,”https://www.telecompaper.com/news/court-fines-halotel-tanzania-over-use-of-unverified-sim-data--1196812"]
+		}
+	},
+	{
+		"CC": "TGO",
+		"COUNTRY NAME": "Togo",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.lonelyplanet.com/thorntree/forums/africa/ghana/cell-phones-in-ghana-togo-and-benin",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Togo"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "TUN",
+		"COUNTRY NAME": "Tunisia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.lonelyplanet.com/thorntree/forums/africa/topics/tunisia-credit-cards-sim-cards-atm-shopping-weather-infos",
+			"RECO": ["http://prepaid-data-sim-card.wikia.com/wiki/Tunisia"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "UGA",
+		"COUNTRY NAME": "Uganda",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "5", "7"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "",
+			"MIN_ACT_DAYS": "",
+			"MAX_ACT_DAYS": "",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Uganda",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g293840-i9254-k7452576-Sim_Card-Uganda.html"],
+			"NEWS": ["http://allafrica.com/stories/201705260131.html”, “http://allafrica.com/stories/201705190119.html”, “http://allafrica.com/stories/201705250025.html"]
+		}
+	},
+	{
+		"CC": "ZMB",
+		"COUNTRY NAME": "Zambia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "7", "5"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Zambia",
+			"RECO": [],
+			"NEWS": ["https://www.daily-mail.co.zm/unregistered-sim-cards-to-be-cut-off/”,”https://www.daily-mail.co.zm/zicta-teams-mobile-phone-companies-update-sim-card-info/"]
+		}
+	},
+	{
+		"CC": "TZA",
+		"COUNTRY NAME": "Zanzibar",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g293747-i9226-k9225554-Kenya_SIM_cards_work_in_Tanzania-Tanzania.html",
+			"RECO": ["http://prepaid-data-sim-card.wikia.com/wiki/Tanzania"],
+			"NEWS": ["http://allafrica.com/stories/201607110667.html"]
+		}
+	},
+	{
+		"CC": "ZWE",
+		"COUNTRY NAME": "Zimbabwe",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "7"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g293760-i9324-k7223184-SIM_card-Harare_Harare_Province.html",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Zimbabwe"],
+			"NEWS": ["http://allafrica.com/stories/201705190884.html”, “https://www.newsday.co.zw/2017/05/11/data-new-battleground-mobile-operators/"]
+		}
+	},
+	{
+		"CC": "SSD",
+		"COUNTRY NAME": "South Sudan",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://forum.virtualtourist.com/Sudan-4033-2-10271828/Prepaid-sim-cardsdata-connections.html",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#South_Sudan"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "COD",
+		"COUNTRY NAME": "Dem. Republic of the Congo",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://www.lonelyplanet.com/democratic-republic-of-congo/telephone",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Middle_East_and_Africa#Democratic_Republic_of_the_Congo"],
+			"NEWS": []
+		}
+	}, {
+		"CC": "AIA",
+		"COUNTRY NAME": "Anguilla",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g147238-i388-k8593307-Cell_phone_SIM_card-Anguilla.html",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g1606589-i15357-k5082556-SIM_card_that_works_in_St_martin_Anguilla_St_barth-Saint_Martin_St_Maarten_St_Martin.html", "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_The_Caribbean"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "ATG",
+		"COUNTRY NAME": "Antigua and Barbuda",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g147242-i225-k7982829-SIM_Card_Where_and_What_to_buy-Antigua_Antigua_and_Barbuda.html",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_The_Caribbean"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "ABW",
+		"COUNTRY NAME": "Aruba",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Aruba",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g147247-i144-k7390923-Unlocked_Phone_SIM_Card_Question-Aruba.html"],
+			"NEWS": ["http://www.aruba.com/blog/the-complete-guide-cell-phone-coverage-aruba"]
+		}
+	},
+	{
+		"CC": "BHS",
+		"COUNTRY NAME": "Bahamas",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "4"
+			],
+			"AVAILABLE AT": [
+				"22", "33", "44"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g147414-i129-k5062484-Anyone_have_a_BTC_Bahamas_SIM_card-Bahamas.html",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_The_Caribbean"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "BRB",
+		"COUNTRY NAME": "Barbados",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g147262-i230-k7044756-Using_Barbados_SIM_card_my_experience-Barbados.html",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g147262-i230-k9370392-Sim_Card_for_me_moblie-Barbados.html", "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_The_Caribbean"],
+			"NEWS": ["https://www.barbadostoday.bb/2017/03/25/flow-goes-4g-lte/"]
+		}
+	},
+	{
+		"CC": "BLZ",
+		"COUNTRY NAME": "Belize",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "",
+			"DATA ONLY": "",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Belize",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g291959-i1455-k9021136-Prepaid_cell_phone_with_data_in_Belize_and_Guatemala-Belize.html", "https://www.tripadvisor.in/ShowTopic-g291959-i1455-k7635853-Sim_card_or_phone_rental-Belize.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "BMU",
+		"COUNTRY NAME": "Bermuda",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "5"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_The_Caribbean",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g147255-i208-k7630878-Buy_SIMcard_with_mobile_data-Bermuda.html", "https://www.tripadvisor.in/ShowTopic-g147255-i208-k6587592-Cell_phone_use-Bermuda.html"],
+			"NEWS": ["http://www.royalgazette.com/local-business/article/20170509/one-says-lte-network-now-widely-available”, “http://www.royalgazette.com/business/article/20170525/digicels-upgraded-network-goes-live"]
+		}
+	},
+	{
+		"CC": "VGB",
+		"COUNTRY NAME": "British Virgin Islands",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g147353-i545-k8056886-Mobile_phone_options-British_Virgin_Islands.html",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g147400-i171-k6693835-Local_micro_sim_card-U_S_Virgin_Islands.html"],
+			"NEWS": ["http://bvinews.com/new/more-than-99-of-tortola-vg-now-covered-digicel/"]
+		}
+	},
+	{
+		"CC": "CAN",
+		"COUNTRY NAME": "Canada",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33", "22"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Canada",
+			"RECO": ["https://www.tripadvisor.com/Travel-g153339-c163066/Canada:Mobile.Phones.In.Canada.html",
+				"http://toomanyadapters.com/buying-sim-card-canada/"
+			],
+			"NEWS": ["http://mobilesyrup.com/2017/05/29/changes-canadian-carrier-cellphone-rate-plan-may-wk-22/”, “http://www.cbc.ca/news/business/cellphone-fees-1.4101996’, “https://www.digitaltrends.com/mobile/guide-to-international-data-plans/"]
+		}
+	},
+	{
+		"CC": "CYM",
+		"COUNTRY NAME": "Cayman Islands",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Cayman_Islands",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g147364-i260-k9152447-SIM_cards-Cayman_Islands.html", "https://www.tripadvisor.in/ShowTopic-g147365-i261-k3694675-Cheap_SIM_cards_available-Grand_Cayman_Cayman_Islands.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "CRI",
+		"COUNTRY NAME": "Costa Rica",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "5"
+			],
+			"AVAILABLE AT": [
+				"33", "22"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Costa_Rica",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g291982-i813-k4735752-Prepaid_sim_cards-Costa_Rica.html", "https://www.tripadvisor.ca/ShowTopic-g291982-i813-k3916868-Cell_Phone-Costa_Rica.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "CUB",
+		"COUNTRY NAME": "Cuba",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "YES",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Cuba",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g147271-i387-k7202658-Local_Sim_Card_Cuba-Havana_Ciudad_de_la_Habana_Province_Cuba.html"],
+			"NEWS": ["https://www.telecompaper.com/news/cuba-launches-3g-service-in-camaguey--1197737”, “”https://www.telecompaper.com/news/digicel-etecsa-launch-cuban-3g-roaming-service--1197081"]
+		}
+	},
+	{
+		"CC": "CUW",
+		"COUNTRY NAME": "Curacao",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Cura%C3%A7ao",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g147277-i583-k6023710-Local_prepaid_SIM_card_for_3g_data-Curacao.html"],
+			"NEWS": ["https://www.royalcaribbeanblog.com/2017/02/21/navigator-of-the-seas-live-blog-day-5-curacao"]
+		}
+	},
+	{
+		"CC": "DOM",
+		"COUNTRY NAME": "Dominican Republic",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Dominican_Republic",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g147293-i28-k4707277-Cell_phone_and_SIM_card_use_in_Dominican_Republic-Punta_Cana_La_Altagracia_Province_Dominican.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "DMA",
+		"COUNTRY NAME": "Dominica",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://www.lonelyplanet.com/dominica/telephone",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_The_Caribbean"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "SLV",
+		"COUNTRY NAME": "El Salvador",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/El_Salvador",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294475-i3217-k3971487-Cell_phone_purchase_at_the_airport-El_Salvador.html", "https://www.tripadvisor.in/ShowTopic-g294475-i3217-k6142773-Paperwork_to_obtain_prepaid_SIM_card-El_Salvador.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "GRL",
+		"COUNTRY NAME": "Greenland",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Greenland",
+			"RECO": ["https://www.lonelyplanet.com/thorntree/forums/europe-scandinavia-the-nordics/greenland/enquiry-some-informations-around-greenland"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "GRD",
+		"COUNTRY NAME": "Grenada and Carriacuou",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.co.uk/Travel-g147295-s605/Grenada:Caribbean:Telephones.html",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g147295-i518-k3884322-Where_to_buy_a_Digicell_sim_card-Grenada.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "GLP",
+		"COUNTRY NAME": "Guadeloupe",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_The_Caribbean",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g147302-i3293-k8138259-SIM_card_at_the_airport-Pointe_a_Pitre_Grande_Terre_Island_Guadeloupe.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "GTM",
+		"COUNTRY NAME": "Guatemala",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Guatemala",
+			"RECO": ["http://toomanyadapters.com/buying-sim-card-guatemala/"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "HTI",
+		"COUNTRY NAME": "Haiti",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g147306-i747-k6111725-SIM_card_Data_in_Haiti-Haiti.html",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_The_Caribbean", "http://www.dslreports.com/forum/r23841500-Need-to-buy-prepaid-SIM-card-for-use-in-Haiti-ASAP"],
+			"NEWS": ["http://www.haitilibre.com/en/news-18698-haiti-education-natcom-launches-new-sim-card-student.html"]
+		}
+	},
+	{
+		"CC": "HND",
+		"COUNTRY NAME": "Honduras",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "3"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g292016-i3574-k8326957-Local_SIM_card_for_Iphone-Honduras.html",
+			"RECO": ["http://prepaid-data-sim-card.wikia.com/wiki/Honduras"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "JAM",
+		"COUNTRY NAME": "Jamaica",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g147311-i93-k8499893-You_CAN_buy_a_simcard_at_Mobay_airport-Montego_Bay_Saint_James_Parish_Jamaica.html",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g147309-i69-k5487185-Getting_a_SIM_card_from_Jamaica-Jamaica.html", "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_The_Caribbean"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "MTQ",
+		"COUNTRY NAME": "Martinique",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g147342-i247-k6067031-Does_Digicel_SIM_work_also_in_Martinique-St_Lucia.html",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_The_Caribbean", "http://cruiseadvice.org/DestinationGuide/WiFiInternetMobilePhone.aspx?PortName=Martinique"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "MEX",
+		"COUNTRY NAME": "Mexico",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Mexico",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g150793-i46-k5368747-Pre_Paid_Mexico_SIM_Cards-Puerto_Vallarta.html"],
+			"NEWS": ["https://www.zacks.com/stock/news/261644/atampts-4g-lte-network-expansion-plans-on-track-in-mexico", "https://www.wirelessweek.com/news/2017/05/t-finishes-us-lte-m-deployment-early-turns-attention-mexico"]
+		}
+	},
+	{
+		"CC": "SPM",
+		"COUNTRY NAME": "Miquelon",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "NO",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"N/A"
+			],
+			"AVAILABLE AT": [
+				"N/A"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "N/A",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Blacklist",
+			"RECO": ["https://en.wikipedia.org/wiki/Telecommunications_in_Saint_Pierre_and_Miquelon"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "MSR",
+		"COUNTRY NAME": "Montserrat",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Americas#Montserrat",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_The_Caribbean"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "KNA",
+		"COUNTRY NAME": "Nevis",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g147377-i1065-k2457284-Cell_phones-Nevis_St_Kitts_and_Nevis.html",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Americas#Saint_Kitts_and_Nevis"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "NIC",
+		"COUNTRY NAME": "Nicaragua",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Nicaragua",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Americas#Nicaragua", "https://www.tripadvisor.in/ShowTopic-g294477-i2982-k9544012-Disposable_phone_SIM_card_international_plan-Nicaragua.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "PAN",
+		"COUNTRY NAME": "Panama",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Panama",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294480-i1194-k6745139-Panama_Sim_Card-Panama_City_Panama_Province.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "PRI",
+		"COUNTRY NAME": "Puerto Rico",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Costa_Rica",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g147319-i71-k6053394-Sim_Card_for_mobile_Internet_on_Tablet-Puerto_Rico.html", "https://www.tripadvisor.in/ShowTopic-g635887-i11076-k9619577-Data_SIM_card-Puerto_Rico_Gran_Canaria_Canary_Islands.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "KNA",
+		"COUNTRY NAME": "St. Kitts",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g147377-i1065-k2457284-Cell_phones-Nevis_St_Kitts_and_Nevis.html",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Americas#Saint_Kitts_and_Nevis"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "LCA",
+		"COUNTRY NAME": "St. Lucia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g147342-i247-k4765560-Sim_cards_for_unlocked_cell_phone-St_Lucia.html",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g147342-i247-k9221933-Can_I_purchase_a_SIM_card_inside_UVF-St_Lucia.html", "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Americas#Saint_Lucia"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "SPM",
+		"COUNTRY NAME": "St. Pierre and Miquelon",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "NO",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"N/A"
+			],
+			"AVAILABLE AT": [
+				"N/A"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "N/A",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Blacklist",
+			"RECO": ["https://en.wikipedia.org/wiki/Telecommunications_in_Saint_Pierre_and_Miquelon"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "VCT",
+		"COUNTRY NAME": "St. Vincent",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Americas#Saint_Vincent_and_the_Grenadines",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g147379-i1174-k4820496-Sim_card_for_cell_phone-St_Vincent_and_the_Grenadines.html", "https://www.tripadvisor.in/ShowTopic-g147383-i2331-k4297734-Anyone_need_a_Digicel_SIM_card-Bequia_St_Vincent_and_the_Grenadines.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "TTO",
+		"COUNTRY NAME": "Trinidad and Tobago",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Trinidad_and_Tobago",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g147388-i645-k4109675-Getting_a_SIM_card_when_I_reach_Trinidad-Trinidad_Trinidad_and_Tobago.html"],
+			"NEWS": ["http://www.guardian.co.tt/business/2016-12-09/tstt-launches-4g-lte”, “http://www.guardian.co.tt/lifestyle/2016-12-13/bmobile-introduces-4glte"]
+		}
+	},
+	{
+		"CC": "TCA",
+		"COUNTRY NAME": "Turks and Caicos Islands",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33", "44"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/Travel-g147395-s605/Turks-And-Caicos:Caribbean:Telephones.html",
+			"RECO": ["https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Americas#Turks_and_Caicos_Islands"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "VIR",
+		"COUNTRY NAME": "US Virgin Islands",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g147404-i172-k1113126-USVI_cell_phone_service-St_Thomas_U_S_Virgin_Islands.html",
+			"RECO": ["http://www.frommers.com/destinations/virgin-islands/726168"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "USA",
+		"COUNTRY NAME": "United States",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "5"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/United_States",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g32655-i61-k6302993-Prepaid_sim_card_for_use_in_the_USA-Los_Angeles_California.html"],
+			"NEWS": ["http://goodherald.com/usa-prepaid-mobile-and-travel-sim-cards/”, “https://goodherald.com/some-details-on-usa-roaming/"]
+		}
+	},
+	{
+		"CC": "SXM",
+		"COUNTRY NAME": "Saint Maarten",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_The_Caribbean",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g147346-i222-k3029146-Where_to_buy_a_sim_card-St_Maarten_St_Martin.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "BES",
+		"COUNTRY NAME": "Bonaire Saba Sint Eustatius",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_The_Caribbean",
+			"RECO": ["https://en.wikipedia.org/wiki/Caribbean_Netherlands"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "ASM",
+		"COUNTRY NAME": "American Samoa",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Samoa",
+			"RECO": ["https://www.tripadvisor.com/Travel-g294137-s605/Samoa:Telephones.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "AUS",
+		"COUNTRY NAME": "Australia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "7", "5"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Australia",
+			"RECO": ["http://prepaid-data-sim-card.wikia.com/wiki/Australia"],
+			"NEWS": ["http://www.techradar.com/news/the-best-value-australian-sim-only-deals-in-june-2017”, “https://www.gizmodo.com.au/2017/06/optus-is-crediting-customers-ripped-off-with-dodgy-data-deals/", "http://www.newstalk.com/Have-unlimited-data-Roam-like-home-after-June-15th-doesnt-apply"]
+		}
+	},
+	{
+		"CC": "NZL",
+		"COUNTRY NAME": "Chatham Island, NZ",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "N/A",
+			"DATA ONLY": "N/A",
+			"DOCUMENTS": [
+				"N/A"
+			],
+			"AVAILABLE AT": [
+				"N/A"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "N/A",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://www.chathams.co.nz/index.php/faq/24-what-about-broadband-and-cellphone-coverage",
+			"RECO": ["https://wirelessnation.co.nz/rural/customer-stories/121-the-chatham-islands"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "COK",
+		"COUNTRY NAME": "Cook Islands",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.in/ShowTopic-g309713-i2628-k618511-Cell_Phone_on_the_Cooks-Rarotonga_Southern_Cook_Islands.html",
+			"RECO": ["https://en.wikipedia.org/wiki/Telecommunications_in_the_Cook_Islands", "https://www.tripadvisor.in/ShowTopic-g294328-i2626-k7921994-Pre_paid_data-Cook_Islands.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "FJI",
+		"COUNTRY NAME": "Fiji Islands",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Fiji",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294331-i883-k8779943-Phone_sim_cards_whats_best-Fiji.html", "https://www.tripadvisor.in/ShowTopic-g294331-i883-k9228815-SIM_card_with_data-Fiji.html", "https://www.tripadvisor.in/ShowTopic-g308257-i10203-k5123784-o10-Vodafone_Sim_Cards_available_at_Nadi_airport-Mana_Island_Mamanuca_Islands.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "PYF",
+		"COUNTRY NAME": "French Polynesia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33", "22"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/French_Polynesia",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294338-i867-k4159761-Vini_Sim_Cards-French_Polynesia.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "GUM",
+		"COUNTRY NAME": "Guam",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Guam_and_Northern_Mariana_Islands",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g60668-i1612-k5424032-Prepaid_Sim_card_in_Guam-Guam.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "KIR",
+		"COUNTRY NAME": "Kiribati",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/Telecom_Services_Kiribati_Limited",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294121-i6904-k2162410-Telephones-Republic_of_Kiribati.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "MNP",
+		"COUNTRY NAME": "Mariana Islands",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "",
+			"DATA ONLY": "",
+			"DOCUMENTS": [
+			],
+			"AVAILABLE AT": [
+			],
+			"CONTRACT": "",
+			"MIN_ACT_DAYS": "",
+			"MAX_ACT_DAYS": "",
+			"LINK": "",
+			"RECO": [],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "MHL",
+		"COUNTRY NAME": "Marshall Islands",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/Communications_in_the_Marshall_Islands",
+			"RECO": ["http://wikitravel.org/en/Marshall_Islands", "http://www.voltageplugregion.com/marshall-islands-technical-information-for-travelers.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "FSM",
+		"COUNTRY NAME": "Federated States of Micronesia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://www.noonsite.com/Countries/FederatedStatesofMicronesia?rc=GeneralInfo",
+			"RECO": ["https://en.wikipedia.org/wiki/Telecommunications_in_the_Federated_States_of_Micronesia"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "UMI",
+		"COUNTRY NAME": "Midway Islands",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "N/A",
+			"DATA ONLY": "N/A",
+			"DOCUMENTS": [
+				"N/A"
+			],
+			"AVAILABLE AT": [
+				"N/A"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://wikitravel.org/en/Midway_Islands",
+			"RECO": ["https://answers.yahoo.com/question/index?qid=20110609160410AA66ElD"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "NRU",
+		"COUNTRY NAME": "Nauru",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33", "22"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Nauru",
+			"RECO": ["https://en.wikipedia.org/wiki/Telecommunications_in_Nauru"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "NCL",
+		"COUNTRY NAME": "New Caledonia",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/New_Caledonia",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294129-i4307-k5959312-Buying_a_micro_sim_card_in_New_Caledonia-New_Caledonia.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "NZL",
+		"COUNTRY NAME": "New Zealand",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "9"
+			],
+			"AVAILABLE AT": [
+				"33", "22"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/New_Zealand",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g255104-i125-k5949512-Mobile_phone_in_NZ_tourist_sim_card-New_Zealand.html"],
+			"NEWS": ["https://www.ausbt.com.au/is-it-worth-getting-a-local-sim-card-in-new-zealand"]
+		}
+	},
+	{
+		"CC": "NIU",
+		"COUNTRY NAME": "Niue",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.tripadvisor.com/Travel-g294131-c187939/Niue:Cell.Phone.Coverage.html",
+			"RECO": ["http://wikitravel.org/en/Niue", "https://www.tripadvisor.in/ShowTopic-g294131-i10811-k6740417-Internet-Niue.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "NFK",
+		"COUNTRY NAME": "Norfolk Island",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://www.parksaustralia.gov.au/norfolk/plan/phone-and-web.html",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g295119-i10456-k6056453-Telstra_mobile_broadband_coverage_Norfolk_Island-Norfolk_Island.html", "https://en.wikipedia.org/wiki/List_of_mobile_network_operators_of_the_Asia_Pacific_region#Norfolk_Island"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "PLW",
+		"COUNTRY NAME": "Palau",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://wikitravel.org/en/Palau",
+			"RECO": ["https://en.wikipedia.org/wiki/Telecommunications_in_Palau"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "PNG",
+		"COUNTRY NAME": "Papua New Guinea",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9", "5"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Papua_New_Guinea",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294115-i3592-k4111584-Mobile_coverage_in_kavieng_nusa-Papua_New_Guinea.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "SLB",
+		"COUNTRY NAME": "Solomon Islands",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Solomon_Islands",
+			"RECO": ["https://www.lonelyplanet.com/thorntree/forums/australasia-pacific-pacific-islands-papua-new-guinea/topics/mobile-telphony-and-wireless-internet-in-solomon-islands"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "TKL",
+		"COUNTRY NAME": "Tokelau",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "N/A",
+			"DATA ONLY": "N/A",
+			"DOCUMENTS": [
+				"N/A"
+			],
+			"AVAILABLE AT": [
+				"N/A"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://wikitravel.org/en/Tokelau",
+			"RECO": ["http://www.lonelyplanet.com/tokelau/introduction"],
+			"NEWS": ["https://www.ausbt.com.au/is-it-worth-getting-a-local-sim-card-in-new-zealand"]
+		}
+	},
+	{
+		"CC": "TON",
+		"COUNTRY NAME": "Tonga",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://www.lonelyplanet.com/thorntree/forums/australasia-pacific-pacific-islands-papua-new-guinea/tonga/mobile-phones-in-tonga",
+			"RECO": ["https://en.wikipedia.org/wiki/Telecommunications_in_Tonga", "http://www.tcc.to/index.php/category/gsm-products-services/"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "TUV",
+		"COUNTRY NAME": "Tuvalu",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "N/A",
+			"DATA ONLY": "N/A",
+			"DOCUMENTS": [
+				"N/A"
+			],
+			"AVAILABLE AT": [
+				"N/A"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Blacklist",
+			"RECO": ["https://en.wikipedia.org/wiki/Telecommunications_in_Tuvalu", "http://wikitravel.org/en/Tuvalu"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "VUT",
+		"COUNTRY NAME": "Vanuatu",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"22", "33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "https://en.wikipedia.org/wiki/Telecommunications_in_Vanuatu",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294143-i3827-k3815895-Tip_Mobile_phones_and_prepaid_services_in_Vanuatu-Vanuatu.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "UMI",
+		"COUNTRY NAME": "Wake Islanda",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "N/A",
+			"DATA ONLY": "N/A",
+			"DOCUMENTS": [
+				"N/A"
+			],
+			"AVAILABLE AT": [
+				"N/A"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "N/A",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://wikitravel.org/en/Wake_Island",
+			"RECO": ["https://www.intltravelnews.com/2010/06/rare-tour-to-wake-island"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "WLF",
+		"COUNTRY NAME": "Wallis and Futuna Islands",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "N/A",
+			"DATA ONLY": "N/A",
+			"DOCUMENTS": [
+				"N/A"
+			],
+			"AVAILABLE AT": [
+				"N/A"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "N/A",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://www.countrycallingcodes.com/mobile/mobile-codes.php?callfrom=United+States&callto=Wallis%20And%20Futuna%20Islands",
+			"RECO": ["https://www.lonelyplanet.com/thorntree/forums/australasia-pacific-pacific-islands-papua-new-guinea/wallis-and-futuna/going-to-wallis"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "WSM",
+		"COUNTRY NAME": "Samoa",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://prepaid-data-sim-card.wikia.com/wiki/Samoa",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g294137-i5760-k2648708-Sim_card_for_Mobile_phone-Samoa.html"],
+			"NEWS": []
+		}
+	},
+	{
+		"CC": "TLS",
+		"COUNTRY NAME": "East Timor",
+		"SIM PURCHASE": {
+			"AVAILABILITY": "YES",
+			"DATA ONLY": "NO",
+			"DOCUMENTS": [
+				"1", "2", "9"
+			],
+			"AVAILABLE AT": [
+				"33"
+			],
+			"CONTRACT": "N/A",
+			"MIN_ACT_DAYS": "0",
+			"MAX_ACT_DAYS": "N/A",
+			"LINK": "http://wikitravel.org/en/East_Timor",
+			"RECO": ["https://www.tripadvisor.in/ShowTopic-g295117-i9393-k8737883-Timor_internet_mobile_phone_coverage-East_Timor.html", "https://en.wikipedia.org/wiki/Telecommunications_in_East_Timor"],
+			"NEWS": []
+		}
+	}
+]
